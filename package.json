@@ -9,5 +9,13 @@
     "keywords": [],
     "author": "",
     "license": "ISC",
-    "dependencies": {}
+    "dependencies": {
+        "handlebars": "^4.7.7"
+    },
+    "devDependencies": {
+        "handlebars-loader": "^1.7.2",
+        "webpack": "^5.74.0",
+        "webpack-cli": "^4.10.0",
+        "webpack-node-externals": "^3.0.0"
+    }
 }
